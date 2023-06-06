@@ -1,0 +1,14 @@
+D:\code\OOP\Final Project\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+D:\code\OOP\Final Project\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+D:\code\OOP\Final Project\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.AssemblyReference.cache
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess_Project.Form1.resources
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess_Project.Form2.resources
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess_Project.Chess.resources
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess_Project.FirstCustomControl.resources
+D:\code\OOP\Final Project\Chess Project\Chess Project\obj\Debug\Chess_Project.MySecondCustmControl.resources

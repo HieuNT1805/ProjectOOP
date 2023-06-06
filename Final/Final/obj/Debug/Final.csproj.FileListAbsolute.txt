@@ -1,0 +1,35 @@
+D:\OOP\Final\Final\bin\Debug\Final.exe.config
+D:\OOP\Final\Final\bin\Debug\Final.exe
+D:\OOP\Final\Final\bin\Debug\Final.pdb
+D:\OOP\Final\Final\obj\Debug\Final.Form1.resources
+D:\OOP\Final\Final\obj\Debug\Final.Properties.Resources.resources
+D:\OOP\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\OOP\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\OOP\Final\Final\obj\Debug\Final.exe
+D:\OOP\Final\Final\obj\Debug\Final.pdb
+D:\OOP\Final\Final\obj\Debug\Final.FirstCustomControl.resources
+D:\OOP\Final\Final\obj\Debug\Final.MySecondCustmControl.resources
+C:\Users\USER\Downloads\Final\Final\bin\Debug\Final.exe.config
+C:\Users\USER\Downloads\Final\Final\bin\Debug\Final.exe
+C:\Users\USER\Downloads\Final\Final\bin\Debug\Final.pdb
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.FirstCustomControl.resources
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.MySecondCustmControl.resources
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.exe
+C:\Users\USER\Downloads\Final\Final\obj\Debug\Final.pdb
+D:\code\OOP\Final Project\Chess Project\Final\Final\bin\Debug\Final.exe.config
+D:\code\OOP\Final Project\Chess Project\Final\Final\bin\Debug\Final.exe
+D:\code\OOP\Final Project\Chess Project\Final\Final\bin\Debug\Final.pdb
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.FirstCustomControl.resources
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.Form1.resources
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.MySecondCustmControl.resources
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.Properties.Resources.resources
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.exe
+D:\code\OOP\Final Project\Chess Project\Final\Final\obj\Debug\Final.pdb
